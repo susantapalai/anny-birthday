@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@theme{--color-navy:#0b1030;--color-lavender:#c9b8f0;--color-gold:#e8c47c;--color-rose:#e8a0b8;
+--font-script:"Great Vibes",cursive;--font-serif:"Cormorant Garamond",Georgia,serif;}
+body{margin:0;background:#0b1030;color:#f4ecff;font-family:var(--font-serif);overflow-x:hidden}
+.twinkle{animation:tw 4s ease-in-out infinite alternate}
+@keyframes tw{from{opacity:.15}to{opacity:1}}
+button:focus-visible{outline:2px solid #e8c47c;outline-offset:3px}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition-duration:.01ms!important}}
