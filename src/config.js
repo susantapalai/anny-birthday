@@ -26,14 +26,14 @@ export default {
     "You deserved kindness even when we disagreed.",
     "Today, I don’t want to ask anything from you.",
     "I just want to wish you a birthday filled with peace, laughter, and people who make you feel valued."],
-  hearts: [
-    {label:"Your laughter", text:"Add what it sounded like, or when it was best."},
-    {label:"Your determination", text:"Add something she worked hard for."},
-    {label:"The way you expressed yourself", text:"Add something she said or wrote that stayed with you."},
-    {label:"Conversations that made time disappear", text:"Add a real late-night talk."},
-    {label:"Memories that still bring a smile", text:"Add one."},
-    {label:"Lessons I learned from knowing you", text:"Add a real one."},
-    {label:"The person you are becoming", text:"Add what you admire about where she’s headed."}],
+    hearts: [
+  {label:"Your laughter", text:"The sound that made even ordinary days feel lighter."},
+  {label:"Your care and effort", text:"You cooked for me, and I haven’t forgotten the effort behind it."},
+  {label:"Your thoughtfulness", text:"The rose you took for me. It was a small gesture, and it meant a lot."},
+  {label:"Conversations that made time disappear", text:"The talks where hours passed without us noticing."},
+  {label:"Memories that still bring a smile", text:"Seeing you for the first time in the yellow dress, with the cycle. I still smile at that."},
+  {label:"Lessons I learned from knowing you", text:"You taught me more about patience, care and listening than you probably know."},
+  {label:"The person you are becoming", text:"I admire how far you’ve come, and I’m sure you’ll keep growing into someone even more wonderful."}],
   photos: [
   {src:"/photo1.png", caption:"Your smile, always the brightest part"},
   {src:"/photo2.png", caption:"Hello Cutie, Happy Birthday "},
